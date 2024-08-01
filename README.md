@@ -1,5 +1,3 @@
-The objective is to create a mobile application that interfaces and uses Drupal as the backend content management system (CMS).
-
 # Branches
 
 Select the *Android* branch to get the Android codebase
