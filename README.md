@@ -1,5 +1,10 @@
 The objective is to create a mobile application that interfaces and uses Drupal as the backend content management system (CMS).
 
+# Branches
+
+Select the *Android* branch to get the Android codebase
+Select the *Drupal* branch to get the Drupal codebase + Database
+
 # Prerequisites *(Not required as such)*
 
 [Dagger](https://developer.android.com/training/dependency-injection/dagger-android) 
