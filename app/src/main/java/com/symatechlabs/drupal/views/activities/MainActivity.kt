@@ -47,16 +47,8 @@ class MainActivity : AppCompatActivity() {
 
         requestMultiplePermissionLauncher.launch(
             arrayOf(
-                Manifest.permission.CAMERA,
-                Manifest.permission.POST_NOTIFICATIONS,
-                Manifest.permission.READ_EXTERNAL_STORAGE,
                 Manifest.permission.INTERNET,
-                Manifest.permission.ACCESS_NOTIFICATION_POLICY,
-                Manifest.permission.WRITE_EXTERNAL_STORAGE,
-                Manifest.permission.ACCESS_NETWORK_STATE,
-                Manifest.permission.READ_MEDIA_IMAGES,
-                Manifest.permission.FOREGROUND_SERVICE,
-                Manifest.permission.BIND_NOTIFICATION_LISTENER_SERVICE
+                Manifest.permission.ACCESS_NETWORK_STATE
             )
         )
 
