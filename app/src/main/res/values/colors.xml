@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_grey">#272727</color>
+
+    <color name="primaryColor">#000000</color>
+    <color name="yellow">#fdc82f</color>
+    <color name="off_white">#F8F0E3</color>
+    <color name="grey">#C8C1C1</color>
+    <color name="grey_text">#a5abc4</color>
+    <color name="transparent">#0300FF19</color>
+    <color name="googleButton">#ff5842</color>
+    <color name="fadeWhite">#F6E8E8</color>
+    <color name="green">#009a49</color>
+    <color name="green_arrow_up">#4cca9b</color>
+    <color name="red_arrow_down">#f42a66</color>
+    <color name="fadeGreen">#C6F3C8</color>
+    <color name="editTextBorder">#d0dbea</color>
+    <color name="iconColor">#2e3e5c</color>
+    <color name="backgroundColor">#F6F0F0</color>
+
+
+
+    <color name="primaryWhite">#FFFFFF</color>
+    <color name="ok_color">#2d96f8</color>
+    <color name="gray">#858585</color>
+    <color name="bodyColor">#f0f1f5</color>
+    <color name="blue_light_gray">#ecf0f7</color>
+    <color name="gray_balance">#cacbcd</color>
+
+    <color name="grey_close">#dadada</color>
+    <color name="grey_close_text">#797979</color>
+
+    <color name="light_gray">#a9b6c6</color>
+    <color name="settings_arrow">#c9c6c6</color>
+    <color name="profile_section_divider">#dddddd</color>
+    <color name="dialog_background_light_color">#f7f7f7</color>
+    <color name="red">#f54e59</color>
+    <color name="light_red">#c7899c</color>
+    <color name="offline_text">#DBA800</color>
+    <color name="edit_text_border_line">#e7edf4</color>
+    <color name="hint_text">#9fa4c0</color>
+    <color name="dark_blue">#3e5481</color>
+    <color name="light_blue">#9fa4c0</color>
+    <color name="dark_black_blue">#2e3e5c</color>
+    <color name="red_light">#ff6465</color>
+    <color name="red_light_two">#ff5842</color>
+    <color name="blue_light">#1877f2</color>
+    <color name="green_light">#bff2bf</color>
+    <color name="light_gray_text">#b7b9bc</color>
+    <color name="white_dirty">#fdfdfd</color>
+    <color name="pale_light_blue">#8cbbf9</color>
+    <color name="pale_light_blue_gray">#e8f1fe</color>
+    <color name="dirty_white">#f8f8f8</color>
+    <color name="icon_blue">#2884E0</color>
+    <color name="gray_text">#828b9d</color>
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red_flag">#bb0000</color>
+    <color name="green_flag">#006600</color>
+    <color name="post_element_container">#212121</color>
+    <color name="light_grey_section">#f6f6f6</color>
+    <color name="light_grey_text">#777777</color>
+
+</resources>
